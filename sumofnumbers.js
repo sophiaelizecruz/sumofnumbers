@@ -29,7 +29,7 @@ function sumTheSimpleWay(list) {
   return _.reduce(list, function(memo, num) {return memo + num})
 }
 
-let list = [1, 8, 9, 10];
+let list = [1, 8, 9, 19];
 console.log(list);
 console.log(sumFor(list));
 console.log(sumWhile(list));
