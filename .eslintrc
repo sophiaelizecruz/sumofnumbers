@@ -4,7 +4,7 @@
     "ecmaVersion": 6,
     "sourceType": "module"
   },
-  "rues": {
+  "rules": {
     "max-len": ["error", 120],
     "no-console": "off",
     "prefer-arrow-callback": "off",
